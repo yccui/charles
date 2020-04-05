@@ -1,14 +1,14 @@
-## Charles Cui [崔元]
+## Charles Cui   [崔元]
 
 PhD Student in Computer Science
 
 Northwestern University
 
-I am currently a first-year PhD student at Northwestern University. I received my Bachelor's degree at Oberlin College, where I was grateful to be advised by [Sam Taggart] (http://samueltaggart.com/). 
+I am currently a first-year PhD student at Northwestern University. I received my Bachelor's degree at Oberlin College, where I was grateful to be advised by [Sam Taggart](http://samueltaggart.com/). 
 
 ### Research Interets 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My research interests lie at the intersection of theoretical computer science and mathematical economics. 
 
 ```markdown
 Syntax highlighted code block
