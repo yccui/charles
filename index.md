@@ -1,6 +1,6 @@
 ## Charles Cui   崔元
 
-[me](testwebsite.jpg)
+![me](testwebsite.jpg)
 
 PhD Student in Computer Science
 
