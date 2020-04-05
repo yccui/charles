@@ -1,6 +1,9 @@
 ## Charles Cui [崔元]
 
-I am a first year PhD student at Northwestern. I received my B.A. from Oberlin College. 
+PhD Student in Computer Science
+Northwestern University
+
+I am currently a first-year PhD student at Northwestern University. I completed my undergraduate studies at Oberlin College. 
 
 ### Markdown
 
