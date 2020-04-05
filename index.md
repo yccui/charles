@@ -15,5 +15,5 @@ My research interests lie at the intersection of theoretical computer science an
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yccui/charlescui.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Publications
-* [Can an Algorithm be My Healthcare Proxy?](https://arxiv.org/abs/2001.09742)
+* [Can an Algorithm be My Healthcare Proxy?](https://arxiv.org/abs/2001.09742), with Duncan C McElfresh, Samuel Dooley Kendra Griesman, Weiqin Wang, Tyler Will, Neil Sehgal, and John P Dickerson. AAAI 2020. 
 
