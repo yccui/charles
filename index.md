@@ -4,7 +4,7 @@ PhD Student in Computer Science
 
 Northwestern University
 
-I am currently a first-year PhD student at Northwestern University. I received my Bachelor's degree at Oberlin College, where I was grateful to be advised by [Sam Taggart](http://samueltaggart.com/). 
+I am currently a first-year PhD student at Northwestern University, advised by [Jason Hartline](https://sites.northwestern.edu/hartline/) I received my Bachelor's degree at Oberlin College, where I was grateful to be advised by [Sam Taggart](http://samueltaggart.com/). 
 
 ### Research Interets 
 
