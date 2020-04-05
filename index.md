@@ -1,9 +1,10 @@
 ## Charles Cui [崔元]
 
 PhD Student in Computer Science
+
 Northwestern University
 
-I am currently a first-year PhD student at Northwestern University. I received my Bachelor's degree at Oberlin College, where I was grateful to be advised by Sam Taggart. 
+I am currently a first-year PhD student at Northwestern University. I received my Bachelor's degree at Oberlin College, where I was grateful to be advised by [Sam Taggart] (http://samueltaggart.com/). 
 
 ### Research Interets 
 
