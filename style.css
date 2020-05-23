@@ -1,3 +1,12 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    /* background-image: url("background.jpg"); */
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 .topnav {
     /*background-color: #333;*/
     /*overflow: hidden;*/
@@ -8,6 +17,7 @@
     margin: auto;
     text-align: center;
     margin-left: 10%;
+    padding-top: 2%;
 }
 
 .topnav a {
@@ -29,7 +39,7 @@
 }
 
 .topnav a.active {
-    background-color: teal;
+    background-color: purple;
     color: white;
 }
 
@@ -42,7 +52,13 @@
   width: 70%;
   padding-top: 4%;
   padding-bottom: 4%;
-  padding-left: 15%
+  margin-left: 10%;
+  padding-left: 5%;
+  padding-right: 5%;
+  /* background-image: url('panel.jpg'); */
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
 }
 
 .content80
@@ -51,6 +67,16 @@
   padding-top: 2%;
   padding-bottom: 5%;
   padding-left: 10%;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 25% 75%;
+}
+
+.grid-item{
+    margin-top: 0;
+    text-align: left;
 }
 
 
@@ -214,4 +240,55 @@ span.SpellE1 {
 
 .STYLE4 {
     font-size: medium
+}
+
+.footer {
+    position: absolute;
+    left: 0;
+    /* bottom: 0; */
+    width: 100%;
+    text-align: center;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-google{
+  background: gray;
+  color: blue;
+}
+
+.fa-github {
+    background: gray;
+    color: black;
+}
+
+.fa-wechat
+{
+  background: green;
+  color: white;
+}
+
+.fa-envelope
+{
+  background: #eb7134;
+  color: white;
 }
